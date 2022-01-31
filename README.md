@@ -8,26 +8,29 @@
 <a href="https://www.linkedin.com/in/marvyn-kevyn-huanca-hilario-a12699b7/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
 
-Hola coders 👋,
+# Hola, coders! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Creo publicaciones de blog y tutoriales principalmente sobre programación web. Me apasiona aprender y compartir mis conocimientos con los demás de la forma más pública posible. Puede ver una lista completa de lo que estoy haciendo en mi repositorio. Si encontraste valor en algo que he creado, no dudes en enviarme un consejo, darme un saludo nos ¡ vemos en el código !
+Creo publicaciones de blog y tutoriales principalmente sobre programación web. Me apasiona aprender y compartir mis conocimientos con los demás de la forma más pública posible. Puede ver una lista completa de lo que estoy haciendo en mi repositorio. Si encontraste valor en algo que he creado, no dudes en enviarme un consejo, darme un saludo !nos vemos en el código!
 
   ---
- 
- <p>
+  <p>
   <img width="240"  align='left' src="https://github.com/cybertcode/cybertcode/blob/main/logo-canal%20cortado.png?raw=true">
 </p>
  
-### Regla del explorador
-
-Me encanta el código abierto, me gusta mucho la regla de los niños exploradores, contribuyo a las cosas a medida que encuentro problemas con los que creo que otras personas podrían tener problemas. Estas pueden ser cosas que alguien que está muy metido en la biblioteca pasa por alto. I 💕 un buen archivo Léame de incorporación con un buen ejemplo.
-
- ---
-
-<!-- <p>
-  <a href="https://waylonwalker.com/latest"><img width="300" align='right' src="https://waylonwalker.com/latest.png?raw=true"></a>
-</p> -->
-
+## 🔧 Tecnologías & Herramientas
+![](https://img.shields.io/badge/OS-Windows-Linux?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS-Code?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tecbologia-Livewire?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Herramienta-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/herramienta-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Herramienta-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Herramienta-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Laravel?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ### Mi jardín digital 🌱
 
 Escribo publicaciones de blog regulares, la mayoría de las cuales encontrará en mi sitio web personal [cybert code] (https://cybertcode.com) y [cybert blog] (https://cybertcode/blog).
