@@ -14,9 +14,8 @@
  </p>
 Creo publicaciones de blog y tutoriales principalmente sobre programación web. Me apasiona aprender y compartir mis conocimientos con los demás de la forma más pública posible. Puede ver una lista completa de lo que estoy haciendo en mi repositorio. Si encontraste valor en algo que he creado, no dudes en enviarme un consejo, darme un saludo !nos vemos en el código!
 
+---
 
-  ---
- 
 ## 🔧 Lenguajes de Programación
 
  <p>
@@ -82,6 +81,17 @@ Creo publicaciones de blog y tutoriales principalmente sobre programación web. 
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a) -->
 
+---
+
+## Mis contribuciones
+
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cybertcode&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Mis estadísticas de github" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybertcode&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Mis estadísticas de github" /> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertcode&layout=compact&theme=cobalt&hide_border=true" />
+
+  
 ## Mi jardín digital 🌱
 
 Escribo publicaciones de blog regulares, la mayoría de las cuales encontrará en mi sitio web personal [cybert code] (https://cybertcode.com) y [cybert blog] (https://cybertcode/blog).
@@ -95,11 +105,14 @@ Escribo publicaciones de blog regulares, la mayoría de las cuales encontrará e
  
 </details>
 
-💌 Me inscribe en mi [Boletin de noticias](https://cybertcode/blog)
-
----
+💌 Suscríbanse a mi bolitin diario [Boletin de noticias](https://cybertcode/blog)
 
 <!-- ### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Últimos seguidores -->
+---
+<p align="center"> © 2022 Cybert Code, Todos los derechos Reservados. Hecho con ❤️ para una web mejor. </p>
+<p align="center">
+https://www.cybertcode.com
+</p>
 
 #Programación web @IBM | #Framework Laravel | #PHP | #Livewire | #Sistemas
 <h2></h2>
