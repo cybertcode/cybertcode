@@ -1,22 +1,39 @@
-# [![waylon walker header](https://github.com/cybertcode/cybertcode/blob/main/PORTADA-CANAL.jpg)](https://github.com/cybertcode)
+<!-- # [![Portada](https://github.com/cybertcode/cybertcode/blob/main/PORTADA-CANAL.jpg)](https://github.com/cybertcode) -->
 
-<p align='center'>
-<a href="https://cybertcode.com"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Kevyn94"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/mkevynhh"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://github.com/cybertcode"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/marvyn-kevyn-huanca-hilario-a12699b7/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+<div  align="center">
+
+# [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Backend%20developer%20👌&text2=💻%20STACK%20TALL&width=900&height=300)](https://github.com/cybertcode)
+
+[![MKevyn](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1&multiline=true&width=435&lines=Ing.+MKevyn+%7C+BackEnd+developer;+%7B%7B+Codeo+y+luego+existo+%7D%7D)](https://git.io/typing-svg)
+
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Mis redes sociales :<br/>
+    <a href="https://www.linkedin.com/in/marvyn-kevyn-huanca-hilario-a12699b7/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.instagram.com/mkevynhh"><img src="https://img.shields.io/badge/facebook-1D4292.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+    <a href="https://gitlab.com/cybert22"><img src="https://img.shields.io/badge/gitlab-1D4292.svg?style=for-the-badge&logo=gitlab"/></a>
+    <a href="https://www.instagram.com/mkevynhh"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.twitch.tv/cybert22"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
+    <a href="https://twitter.com/Kevyn94"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
-# Hola, coders! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-  <p>
-  <img width="150"  align='left' src="https://github.com/cybertcode/cybertcode/blob/main/logo-canal%20cortado.png?raw=true">
- </p>
-Creo publicaciones de blog y tutoriales principalmente sobre programación web. Me apasiona aprender y compartir mis conocimientos con los demás de la forma más pública posible. Puede ver una lista completa de lo que estoy haciendo en mi repositorio. Si encontraste valor en algo que he creado, no dudes en enviarme un consejo, darme un saludo !nos vemos en el código!
+<div  align="center">
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=cybertcode&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/cybertcode)
+
+</div>
+
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="25" height="25" /> Sobre mí:
+
+> Me apasiona aprender y compartir mis conocimientos con los demás de la forma más pública posible.
+> Siempre estoy dispuesto a asumir nuevos desafíos y trabajar con equipos para hacer realidad cualquier idea. ¡Gracias por visitar mi perfil!
 
 ---
 
-## 🔧 Lenguajes de Programación
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Mis Habilidades <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />Lenguajes de Programación
 
  <p>
    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -28,7 +45,7 @@ Creo publicaciones de blog y tutoriales principalmente sobre programación web. 
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
 </p>
 
-## 🔧 Frameworks and Libraries
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />Frameworks y Librerias
 
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
@@ -42,17 +59,17 @@ Creo publicaciones de blog y tutoriales principalmente sobre programación web. 
   <img src="https://img.shields.io/badge/Livewire-ff69b4?style=for-the-badge&logo=livewire&logoColor=white" />
 </p>
 
-## 🔧 Herramientas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />Herramientas
 
 <p>
    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
   <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
-  
+
 </p>
 
-## 🔧 Base de datos
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />Base de datos
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -61,10 +78,10 @@ Creo publicaciones de blog y tutoriales principalmente sobre programación web. 
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
 
-<!-- ## 🔧 Otras tecnologías
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />Otras tecnologías
 
 ![](https://img.shields.io/badge/Tecnologia-Livewire-brightgreen?style=flat&logo=livewire&logoColor=ff69b4&color=ff69b4)
-![](https://img.shields.io/badge/Code-php-blue?style=flat&logo=php&logoColor=blue&color=blue) 
+![](https://img.shields.io/badge/Code-php-blue?style=flat&logo=php&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Editor-vscode-blue?style=flat&logo=vscode&logoColor=blue&color=blue)
 ![](https://img.shields.io/badge/Code-Bootstrap-blue?style=flat&logo=bootstrap&logoColor=ff69b4&color=ff69b4)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -79,40 +96,76 @@ Creo publicaciones de blog y tutoriales principalmente sobre programación web. 
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a) -->
+![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ---
 
-## Mis contribuciones
+### 🎯 Estadística de cuenta
 
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=cybertcode&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Mis estadísticas de github" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=cybertcode&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="Mis estadísticas de github" /> 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertcode&layout=compact&theme=cobalt&hide_border=true" />
-
+<div  align="center">
   
-## Mi jardín digital 🌱
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cybertcode)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybertcode&show_icons=true&theme=radical)
 
-Escribo publicaciones de blog regulares, la mayoría de las cuales encontrará en mi sitio web personal [cybert code] (https://cybertcode.com) y [cybert blog] (https://cybertcode/blog).
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertcode&layout=compact&theme=cobalt&hide_border=true" />
+  </div>
+  
 
-[Posts recientes 👉](https://cybertcode/blog)
-
-<details>
- <summary><strong>otras publicaciones favoritas</strong></summary>
- <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://images.waylonwalker.com/eight-years-cat-og.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://images.waylonwalker.com/what-are-github-actions-og.png?raw=true"></a>
- 
-</details>
-
-💌 Suscríbanse a mi bolitin diario [Boletin de noticias](https://cybertcode/blog)
-
-<!-- ### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Últimos seguidores -->
 ---
-<p align="center"> © 2022 Cybert Code, Todos los derechos Reservados. Hecho con ❤️ para una web mejor. </p>
+
+### 🎯 Actividades
+
+<div  align="center">
+  
+[![Gráfico de actividad](https://github-readme-activity-graph.cyclic.app/graph?username=cybertcode&theme=dracula)](https://github.com/cybertcode)
+  
+</div>
+
+---
+
+### 🎯 Datos interesantes
+
+<div  align="center">
+  
+[![Estado de contribución](https://github-contribution-stats.vercel.app/api/?username=cybertcode)](https://github.com/cybertcode)
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12725960)](https://stackoverflow.com/users/12725960/cybert-code)
+[![Moon.svg](https://dday-widget.minung.dev/widget?text=Feliz%20cumplea%C3%B1os%20codero%F0%9F%99%82&date=2024-01-28&startDate=2024-01-28&theme=theme1)](https://stackoverflow.com/users/12725960/cybert-code)
+
+<!-- [![stackoverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/12725960?theme=cobalt&website=true&location=true)](https://stackoverflow.com/users/12725960/cybert-code) -->
+</div>
+  
+ ---
+ 
+### 🎯 Colaboración
+
+<div style="display: flex; align-items: flex-start;" align="center">
+<a href="https://github.com/cybertcode/LANDING-PAGE-RESTAUTANTE-CAFETER-A/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cybertcode/LANDING-PAGE-RESTAUTANTE-CAFETER-A" />
+</a>
+
+<a href="https://github.com/cybert22/login-register-html5-css-bootstrap/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cybert22/login-register-html5-css-bootstrap" />
+</a>
+</div>
+
+---
+
+### 🎯 Tendencia de GitHub
+
+<div  align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=cybertcode)](https://github.com/cybertcode)
+
+ </div>
+<!-- [![Tendencia](https://api.githubtrends.io/user/svg/cybertcode/langs)](https://github.com/cybertcode) -->
+
+
+
+</br>
+
+---
+
+<p align="center"> © 2022 Cybertcode, todos los derechos Reservados. Hecho con ❤️ para una web mejor. </p>
 <p align="center">
 https://www.cybertcode.com
 </p>
-
-#Programación web @IBM | #Framework Laravel | #PHP | #Livewire | #Sistemas
-<h2></h2>
