@@ -9,12 +9,8 @@
   <a href="https://dev.to/cybert22"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"/></a>
   <a href="https://gitlab.com/cybert22"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/></a>
   <a href="https://www.instagram.com/mkevynhh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.twitch.tv/cybert22"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white"/></a>
-  <a href="https://twitter.com/Kevyn94"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
   <a href="https://www.cybertcode.com"><img src="https://img.shields.io/badge/Website-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/></a>
 </p>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=cybertcode&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/cybertcode)
 
 </div>
 
@@ -29,10 +25,18 @@ class Developer:
     ubicacion   = "Perú 🇵🇪"
     rol         = "Backend Developer"
     stack       = ["Laravel", "Livewire", "Python", "Django", "Node.js"]
-    actualmente = "Construyendo herramientas con IA + MCP"
-    blog        = "https://dev.to/cybert22"
+    intereses   = ["IA Agentes", "MCP Servers", "Arquitecturas Limpias"]
     lema        = "{{ Codeo y luego existo }}"
 ```
+
+> ⚡ **Especialista en el stack TALL**: Construyo aplicaciones robustas y escalables con Laravel y Livewire. Mi enfoque actual es la integración de **IA en flujos de trabajo reales** mediante el protocolo MCP (Model Context Protocol).
+
+---
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cybertcode&theme=tokyonight&no-bg=true&margin-w=4" alt="github trophies">
+</div>
 
 ---
 
@@ -42,10 +46,9 @@ class Developer:
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**UltraFolio**](https://github.com/cybertcode/UltraFolio) | Editor PDF moderno para Windows: foliación, numeración Bates, marcas de agua | `JavaScript` |
-| [**MCP-SERVER**](https://github.com/cybertcode/MCP-SERVER) | Servidor MCP propio para integración con herramientas de IA | `Python` |
-| [**MCP-CLIENT**](https://github.com/cybertcode/MCP-CLIENT) | Cliente MCP para consumo de herramientas AI via protocolo estándar | `Python` |
-| [**PLATAFORMA-DE-CURSOS**](https://github.com/cybertcode/PLATAFORMA-DE-CURSOS) ⭐4 | Plataforma e-learning con Stack TALL completo | `PHP · Laravel · Livewire` |
+| [**UltraFolio**](https://github.com/cybertcode/UltraFolio) | Editor PDF moderno: foliación y numeración Bates profesional | `JS · Electron` |
+| [**MCP-SERVER**](https://github.com/cybertcode/MCP-SERVER) | Servidor MCP para integración profunda con modelos de lenguaje | `Python` |
+| [**PLATAFORMA-CURSOS**](https://github.com/cybertcode/PLATAFORMA-DE-CURSOS) | E-learning completo con gestión de suscripciones y contenido | `Stack TALL` |
 
 </div>
 
@@ -55,30 +58,29 @@ class Developer:
 
 <div align="center">
 
-### 💻 Lenguajes
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### ⚙️ Frameworks
-
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 💻 Lenguajes & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=php,laravel,python,django,js,ts,nodejs,tailwind,bootstrap,mysql,postgres,docker,linux,git,vscode,postman)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## 📊 Estadísticas
+## 📊 Estadísticas de GitHub
 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=cybertcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
+<br>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=cybertcode&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
 </div>
 
 ---
 
-## 🐍 Contribuciones
+## 🐍 Actividad de Contribuciones
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/cybertcode/cybertcode/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
@@ -100,12 +102,13 @@ class Developer:
 
 ---
 
-## 📫 Contáctame
+## 📫 Contacto & Redes
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developtech23@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkhh/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developtech23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkhh/)
+[![Dev.to](https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/cybert22)
 
 </div>
 
@@ -113,6 +116,6 @@ class Developer:
 
 <div align="center">
 
-**© 2026 Cybertcode** — Hecho con ❤️ desde Perú 🇵🇪
+**© 2026 Cybertcode** — Hecho con ❤️ desde Perú 🇵🇪 · [cybertcode.com](https://www.cybertcode.com)
 
 </div>
