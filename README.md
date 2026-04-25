@@ -1,171 +1,122 @@
-<!-- # [![Portada](https://github.com/cybertcode/cybertcode/blob/main/PORTADA-CANAL.jpg)](https://github.com/cybertcode) -->
+<div align="center">
 
-<div  align="center">
+[![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MKevyn%20HH&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Stack%20TALL%20%7C%20Perú%20🇵🇪&descAlignY=60&descSize=18)](https://github.com/cybertcode)
 
-# [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Backend%20developer%20👌&text2=💻%20STACK%20TALL&width=900&height=300)](https://github.com/cybertcode)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=PHP+%2F+Laravel+%2F+Livewire+Developer;Python+%2F+Django+%2F+FastAPI;MCP+%26+AI+Tooling+Builder;%7B%7B+Codeo+y+luego+existo+%7D%7D)](https://github.com/cybertcode)
 
-[![MKevyn](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1&multiline=true&width=435&lines=Ing.+MKevyn+%7C+BackEnd+developer;+%7B%7B+Codeo+y+luego+existo+%7D%7D)](https://github.com/cybertcode)
-
-</div>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"> Mis redes sociales :<br/>
-    <a href="https://www.linkedin.com/in/marvyn-kevyn-huanca-hilario-a12699b7/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.facebook.com/profile.php?id=100047330599374"><img src="https://img.shields.io/badge/facebook-1D4292.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-    <a href="https://gitlab.com/cybert22"><img src="https://img.shields.io/badge/gitlab-1D4292.svg?style=for-the-badge&logo=gitlab"/></a>
-    <a href="https://www.instagram.com/mkevynhh"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://www.twitch.tv/cybert22"><img src="https://img.shields.io/badge/twitch-9146FF.svg?style=for-the-badge&logo=twitch&logoColor=white"/></a>
-    <a href="https://twitter.com/Kevyn94"><img src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/mkhh/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dev.to/cybert22"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=flat-square&logo=devdotto&logoColor=white"/></a>
+  <a href="https://gitlab.com/cybert22"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white"/></a>
+  <a href="https://www.instagram.com/mkevynhh"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.twitch.tv/cybert22"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat-square&logo=twitch&logoColor=white"/></a>
+  <a href="https://twitter.com/Kevyn94"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.cybertcode.com"><img src="https://img.shields.io/badge/Website-FF5722?style=flat-square&logo=google-chrome&logoColor=white"/></a>
 </p>
-
-<div  align="center">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=cybertcode&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/cybertcode)
 
 </div>
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Detective.png" alt="Detective" width="25" height="25" /> Sobre mí:
+---
 
-> Me apasiona aprender y compartir mis conocimientos con los demás de la forma más pública posible.
-> Siempre estoy dispuesto a asumir nuevos desafíos y trabajar con equipos para hacer realidad cualquier idea. ¡Gracias por visitar mi perfil!
+## 🧑‍💻 Sobre mí
+
+```python
+class Developer:
+    nombre      = "MKevyn HH"
+    alias       = "cybertcode"
+    ubicacion   = "Perú 🇵🇪"
+    rol         = "Backend Developer"
+    stack       = ["Laravel", "Livewire", "Python", "Django", "Node.js"]
+    actualmente = "Construyendo herramientas con IA + MCP"
+    blog        = "https://dev.to/cybert22"
+    lema        = "{{ Codeo y luego existo }}"
+```
 
 ---
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="25" height="25" /> Mis Habilidades <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" />
+## 🚀 Proyectos destacados
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />Lenguajes de Programación
+<div align="center">
 
- <p>
-   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
-</p>
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [**UltraFolio**](https://github.com/cybertcode/UltraFolio) | Editor PDF moderno para Windows: foliación, numeración Bates, marcas de agua | `JavaScript` |
+| [**MCP-SERVER**](https://github.com/cybertcode/MCP-SERVER) | Servidor MCP propio para integración con herramientas de IA | `Python` |
+| [**MCP-CLIENT**](https://github.com/cybertcode/MCP-CLIENT) | Cliente MCP para consumo de herramientas AI via protocolo estándar | `Python` |
+| [**PLATAFORMA-DE-CURSOS**](https://github.com/cybertcode/PLATAFORMA-DE-CURSOS) ⭐4 | Plataforma e-learning con Stack TALL completo | `PHP · Laravel · Livewire` |
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />Frameworks y Librerias
-
-<p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Livewire-ff69b4?style=for-the-badge&logo=livewire&logoColor=white" />
-</p>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />Herramientas
-
-<p>
-   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white" />
-
-</p>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="25" height="25" />Base de datos
-
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Party%20Popper.png" alt="Party Popper" width="25" height="25" />Otras tecnologías
-
-![](https://img.shields.io/badge/Tecnologia-Livewire-brightgreen?style=flat&logo=livewire&logoColor=ff69b4&color=ff69b4)
-![](https://img.shields.io/badge/Code-php-blue?style=flat&logo=php&logoColor=blue&color=blue)
-![](https://img.shields.io/badge/Editor-vscode-blue?style=flat&logo=vscode&logoColor=blue&color=blue)
-![](https://img.shields.io/badge/Code-Bootstrap-blue?style=flat&logo=bootstrap&logoColor=ff69b4&color=ff69b4)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=yellow)
-![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
-
----
-
-### 🎯 Estadística de cuenta
-
-<div  align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=cybertcode)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cybertcode&show_icons=true&theme=radical)
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertcode&layout=compact&theme=cobalt&hide_border=true" />
-  </div>
-  
-
----
-
-### 🎯 Actividades
-
-<div  align="center">
-  
-[![Gráfico de actividad](https://github-readme-activity-graph.cyclic.app/graph?username=cybertcode&theme=dracula)](https://github.com/cybertcode)
-  
 </div>
 
 ---
 
-### 🎯 Datos interesantes
+## 🛠️ Stack tecnológico
 
-<div  align="center">
-  
-[![Estado de contribución](https://github-contribution-stats.vercel.app/api/?username=cybertcode)](https://github.com/cybertcode)
-[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=12725960)](https://stackoverflow.com/users/12725960/cybert-code)
-[![Moon.svg](https://dday-widget.minung.dev/widget?text=Feliz%20cumplea%C3%B1os%20codero%F0%9F%99%82&date=2024-01-28&startDate=2024-01-28&theme=theme1)](https://stackoverflow.com/users/12725960/cybert-code)
+<div align="center">
 
-<!-- [![stackoverflow](https://stackoverflow-readme-profile.johannchopin.fr/profile/12725960?theme=cobalt&website=true&location=true)](https://stackoverflow.com/users/12725960/cybert-code) -->
-</div>
-  
- ---
- 
-### 🎯 Colaboración
+### 💻 Lenguajes
 
-<div style="display: flex; align-items: flex-start;" align="center">
-<a href="https://github.com/cybertcode/LANDING-PAGE-RESTAUTANTE-CAFETER-A/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cybertcode/LANDING-PAGE-RESTAUTANTE-CAFETER-A" />
-</a>
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<a href="https://github.com/cybert22/login-register-html5-css-bootstrap/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=cybert22/login-register-html5-css-bootstrap" />
-</a>
+### ⚙️ Frameworks
+
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 </div>
 
 ---
 
-### 🎯 Tendencia de GitHub
+## 📊 Estadísticas
 
-<div  align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=cybertcode)](https://github.com/cybertcode)
+<div align="center">
 
- </div>
-<!-- [![Tendencia](https://api.githubtrends.io/user/svg/cybertcode/langs)](https://github.com/cybertcode) -->
+<img src="https://github-readme-stats.vercel.app/api?username=cybertcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 
-
-
-</br>
+</div>
 
 ---
 
-<p align="center"> © 2022 Cybertcode, todos los derechos Reservados. Hecho con ❤️ para una web mejor. </p>
-<p align="center">
-https://www.cybertcode.com
-</p>
+## 🐍 Contribuciones
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cybertcode/cybertcode/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cybertcode/cybertcode/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/cybertcode/cybertcode/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+## 📖 Versículo del día
+
+<div align="center">
+
+<!-- BIBLE-VERSE:START -->
+> *"Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito, para que todo aquel que en él cree, no se pierda, mas tenga vida eterna."*
+>
+> — **Juan 3:16**
+<!-- BIBLE-VERSE:END -->
+
+</div>
+
+---
+
+## 📫 Contáctame
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Escríbeme-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:developtech23@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Conectemos-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mkhh/)
+
+</div>
+
+---
+
+<div align="center">
+
+**© 2026 Cybertcode** — Hecho con ❤️ desde Perú 🇵🇪
+
+</div>
