@@ -33,13 +33,6 @@ class Developer:
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cybertcode&theme=tokyonight&no-bg=true&margin-w=4" alt="github trophies">
-</div>
-
----
-
 ## 🚀 Proyectos destacados
 
 <div align="center">
