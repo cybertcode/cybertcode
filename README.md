@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- La Portada Hermosa (Waving Gradient + Twinkling) -->
+<!-- Portada (Waving Gradient + Twinkling) -->
 [![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MKevyn%20HH&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Stack%20TALL%20%7C%20Perú%20🇵🇪&descAlignY=60&descSize=18)](https://github.com/cybertcode)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+TALL+Stack;AI+Tools+%26+MCP+Specialist;Construyendo+el+futuro+del+Backend" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Software+Engineer+%7C+TALL+Stack;AI+Tools+%26+MCP+Specialist;Construyendo+el+futuro+del+Backend" />
 </p>
 
 <!-- Social Badges Modernos -->
@@ -29,28 +29,13 @@
 
 ## 🧑‍💻 Perfil Profesional
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 Enfoque</h3>
-      <p>Desarrollador enfocado en <b>Arquitecturas Limpias</b> y soluciones escalables. Especialista en optimización de procesos mediante <b>IA y Automatización</b>.</p>
-      <ul>
-        <li>🏗️ <b>Stack:</b> Laravel, Livewire, Python.</li>
-        <li>🤖 <b>IA:</b> MCP Servers, Integración LLM.</li>
-        <li>🌐 <b>Web:</b> cybertcode.com</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎨 Lema</h3>
-      <p align="center">
-        <br>
-        <i>"{{ Codeo y luego existo }}"</i>
-        <br><br>
-        <img src="https://raw.githubusercontent.com/cybertcode/cybertcode/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| 🚀 Enfoque | 🎨 Lema |
+| :--- | :--- |
+| Desarrollador enfocado en **Arquitecturas Limpias** y soluciones escalables. Especialista en **IA y Automatización**. | _"{{ Codeo y luego existo }}"_ <br><br> <img src="https://raw.githubusercontent.com/cybertcode/cybertcode/output/github-contribution-grid-snake.svg" alt="Snake" width="250" /> |
+
+</div>
 
 ---
 
@@ -65,8 +50,8 @@
 ## 📊 Actividad y Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cybertcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cybertcode&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybertcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="150"/>
   
   <br><br>
   
@@ -78,8 +63,10 @@
 ## 📖 Versículo del día
 
 <div align="center">
-  <!-- Cambio a tipo Vertical para evitar desbordamiento -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight&quote=Porque%20de%20tal%20manera%20amó%20Dios%20al%20mundo,%20que%20ha%20dado%20a%20su%20Hijo%20unigénito,%20para%20que%20todo%20aquel%20que%20en%20él%20cree,%20no%20se%20pierda,%20mas%20tenga%20vida%20eterna.&author=Juan%203:16" />
+  <!-- Versículo con formato que NO se desborda -->
+  <a href="https://github.com/cybertcode">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=161b22&height=150&section=header&text=Juan%203:16&fontSize=30&fontColor=A855F7&desc=Porque%20de%20tal%20manera%20amó%20Dios%20al%20mundo,%20que%20ha%20dado%20a%20su%20Hijo%20unigénito...&descAlignY=65&descSize=15" width="100%" />
+  </a>
 </div>
 
 ---
