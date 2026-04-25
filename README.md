@@ -1,15 +1,13 @@
 <div align="center">
 
-<!-- Banner Principal con Fuente Elegante y Animación -->
-[![capsule-render](https://capsule-render.vercel.app/api?type=rect&color=00000000&height=120&section=header&text=Cybert%20Code&fontSize=80&fontColor=A855F7&animation=fadeIn&fontAlignY=50)](https://github.com/cybertcode)
+<!-- RESTAURADA: La Portada Hermosa (Waving Gradient + Twinkling) -->
+[![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MKevyn%20HH&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20%7C%20Stack%20TALL%20%7C%20Perú%20🇵🇪&descAlignY=60&descSize=18)](https://github.com/cybertcode)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Software+Engineer+%7C+TALL+Stack;AI+Tools+%26+MCP+Specialist;Construyendo+el+futuro+del+Backend" />
 </p>
 
----
-
-<!-- Social Badges Modernos -->
+<!-- Social Badges Modernos (Manteniendo Facebook) -->
 <div align="center">
   <a href="https://web.facebook.com/mkevyn.hhilario" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
